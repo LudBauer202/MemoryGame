@@ -1,3 +1,18 @@
+# MEMORY GAME
+
+## HOW TO PLAY ( RULES )
+
+This is a traditional game called memory game! The objective of
+this game is to get as many cards that are the same correct. On each turn the player gets
+to click on a card to turn it over. Next the player needs to select another card to be turned over.
+If the first card and the second card match visually, they stay turned. The end goal is to get all the
+duplicate cards turned over in as few moves as possible
+
+## HOW TO INSTALL AND RUN
+
+Copy this files to your local machine and open the terminal. Type in "npm start" to run.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
